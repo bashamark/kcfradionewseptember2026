@@ -3,26 +3,26 @@
   "home_tab": {
     "enabled": true
   },
-  "configUrl": "https://raw.githubusercontent.com/emcradio/emc_radio_2026/refs/heads/main/radio_config.json",
-  "streamUrl": "http://c22.radioboss.fm:8040/stream",
+  "configUrl": "https://raw.githubusercontent.com/bashamark/kcfradionewseptember2026/refs/heads/main/radio_config.json",
+  "streamUrl": "https://c24.radioboss.fm:18185/stream",
   "streams": [
     {
       "id": "mcf",
       "enabled": true,
-      "label": "EMC Radio",
-      "url": "http://c22.radioboss.fm:8040/stream"
+      "label": "KCF Radio",
+      "url": "https://c24.radioboss.fm:18185/stream"
     },
     {
       "id": "mcf-data-saver",
       "enabled": true,
-      "label": "EMC Radio",
-      "url": "http://c22.radioboss.fm:8040/stream"
+      "label": "KCF Radio",
+      "url": "https://c24.radioboss.fm:18185/stream"
     },
     {
       "id": "radioboss",
       "enabled": true,
       "label": "MCF 98.7 (mcfradio2018)",
-      "url": "http://c22.radioboss.fm:8040/stream"
+      "url": "https://c24.radioboss.fm:18185/stream"
     }
   ],
   "defaultTitle": "The Voice of Abundance ",
@@ -39,10 +39,10 @@
   },
   "youtube": {
     "enabled": true,
-    "channel_id": "UCaw5bydxwBSQgxxFWJdVjOA",
-    "live_url": "https://www.youtube.com/channel/UCaw5bydxwBSQgxxFWJdVjOA/live",
-    "streams_url": "https://www.youtube.com/@emcchurch",
-    "streams_home_count": 15,
+    "channel_id": "UCiU9pjW-0E8ZTbsfCn9-lGQ",
+    "live_url": "https://www.youtube.com/channel/UCiU9pjW-0E8ZTbsfCn9-lGQ/live",
+    "streams_url": "https://www.youtube.com/@kcfchinfo/",
+    "streams_home_count": 20,
     "streams_title": "Recent Video Streams",
     "title": "",
     "fullscreen": true,
@@ -64,14 +64,14 @@
         "id": "prayer-fasting-2026",
         "tag": "home",
         "enabled": true,
-        "imageUrl": "https://i.ibb.co/pk9YNWN/slide1-emc.jpg",
+        "imageUrl": "https://i.ibb.co/vvJq03sc/kcfslide1.jpg",
         "linkUrl": ""
       },
 
       {
         "id": "slide0",
         "tag": "home",
-        "enabled": true,
+        "enabled": false,
         "imageUrl": "https://i.ibb.co/1S07qDG/slide2-emc.jpg",
         "linkUrl": ""
       }
@@ -79,8 +79,8 @@
   },
   "podcasts": {
     "enabled": true,
-    "rss_url": "https://anchor.fm/s/a55bacfc/podcast/rss",
-    "home_count": 6,
+    "rss_url": "https://anchor.fm/s/105315a14/podcast/rss",
+    "home_count": 7,
     "title": "Podcasts"
   },
   "admob": {
@@ -126,19 +126,19 @@
     {
       "id": "facebook",
       "enabled": true,
-      "url": "https://www.facebook.com/edenmcm",
+      "url": "https://www.facebook.com/kcfchinfo",
       "label": "Facebook"
     },
     {
       "id": "whatsapp",
       "enabled": true,
-      "url": "https://wa.link/myk83u",
+      "url": "https://chat.whatsapp.com/JfGFicVQ0zsJCzOff1mmZS",
       "label": "WhatsApp"
     },
     {
       "id": "youtube",
       "enabled": true,
-      "url": "https://www.youtube.com/@emcchurch/streams",
+      "url": "https://www.youtube.com/@kcfchinfo/streams",
       "label": "YouTube"
     },
     {
